@@ -1,5 +1,5 @@
-# DS18B20-Holder-x6
-A simple board to hold six DS18B20 temperature sensors
+# DS18B20-Holder-x6-phono
+A board that breaks the Dallas one-wire out to six 3.5mm phono plugs.
 
 J2 is a jumper to select normal or parasitic-power mode.  Short the middle pin to the one labelled 'n' for normal power mode.  Short the middle pin to the one lebelled 'p' for parasitic-power mode.
 
